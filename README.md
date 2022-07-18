@@ -33,9 +33,11 @@ Trawlers, particularly super-trawlers, cause massive damage to fish species and 
 
 ### Path
 
-* [ ] Find AIS dataset
-* [ ] Find Marine Protected Areas (MPAs) coords
-
+* [x] Find AIS dataset
+* [x] Find Marine Protected Areas (MPAs) coords
+  * There is GIS data but that's another kettle of fish
+  * Using a JPG with lat and lon scale and 8 MPAs marked; using a ruler to find the lat and lon estimates :-(
+* [ ] Use AIS data to track ship movement and find intercepts with MPAs
 
 ## References
 
