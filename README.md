@@ -31,14 +31,6 @@ Trawlers, particularly super-trawlers, cause massive damage to fish species and 
   * probably graph problem [6]
 
 
-### Path
-
-* [x] Find AIS dataset
-* [x] Find Marine Protected Areas (MPAs) coords
-  * There is GIS data but that's another kettle of fish
-  * Using a JPG with lat and lon scale and 8 MPAs marked; using a ruler to find the lat and lon estimates :-(
-* [ ] Use AIS data to track ship movement and find intercepts with MPAs
-
 ## References
 
 1. [EU Parliament Questions... Subject: Observers on board fishing vessels prevented from carrying out their duties](https://www.europarl.europa.eu/doceo/document/E-7-2012-006861_EN.html)
